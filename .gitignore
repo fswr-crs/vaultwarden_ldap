@@ -7,3 +7,8 @@
 
 # Ignore config while developing
 config.toml
+
+# Ignore Python Virtual Envirooment
+.venv/
+# Ignore vscode config
+.vscode/
